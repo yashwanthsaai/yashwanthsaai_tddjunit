@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"learn_epam.tddjunithometask","c":"DelAinFirst2CharsTest","l":"DelAinFirst2CharsTest()","url":"%3Cinit%3E()"}]

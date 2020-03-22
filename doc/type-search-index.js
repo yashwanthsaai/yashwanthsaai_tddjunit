@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"learn_epam.tddjunithometask","l":"DelAinFirst2CharsTest"}]
